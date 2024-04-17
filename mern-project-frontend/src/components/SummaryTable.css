@@ -1,0 +1,26 @@
+/* src/components/SummaryTable.css */
+
+.summary-container {
+    margin-top: 20px;
+  }
+  
+  .summary-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .summary-table th,
+  .summary-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .variations-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .variations-list li {
+    margin-bottom: 5px;
+  }
+  
